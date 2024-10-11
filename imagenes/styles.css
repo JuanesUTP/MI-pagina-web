@@ -39,3 +39,19 @@ img{
 .notice-text{
     text-align: justify;
 }
+.perfil-contenedor {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.perfil-info {
+    display: flex;
+    align-items: center;
+    
+}
+
+.perfil-img {
+    margin-right: 20px;
+}
+
