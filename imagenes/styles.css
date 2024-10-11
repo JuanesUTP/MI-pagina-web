@@ -48,9 +48,17 @@ img{
 .perfil-info {
     display: flex;
     align-items: center;
+    
 }
 
 .perfil-img {
     margin-right: 20px;
+}
+.text-perfil{
+    width: 500px;
+    background-color: azure;
+    margin-bottom: 24px;
+    padding: 24px 36px;
+    border-radius: 15px;
 }
 
